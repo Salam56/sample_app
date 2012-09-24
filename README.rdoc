@@ -1,4 +1,0 @@
-# Ruby on Rails Tutorail: sample application
-this is the sample application for
-[*Ruby on Rails tutorial: Learn Rails by Example*] (http://railstutorial.org/)
-by [Michale Hart] (http://michaelhartl.com/)
